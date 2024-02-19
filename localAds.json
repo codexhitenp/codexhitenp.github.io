@@ -36,6 +36,7 @@
       "media": "https://pub-378e0dd96b5343108a04317ebddebb4e.r2.dev/goalTypes.jpg",
       "appIcon": "https://pub-378e0dd96b5343108a04317ebddebb4e.r2.dev/AIAd.jpg",
       "backgroundColor": "02071E",
+      "backgroundColor2": "19001F",
       "textColor": "ffffff",
       "tintColor": "ffffff",
       "fullscreen": false,
