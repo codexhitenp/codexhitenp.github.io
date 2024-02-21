@@ -1,0 +1,123 @@
+{
+  "status": true,
+  "responseCode": 200,
+  "message": "",
+  "dataAds": {
+    "adsOnOff": false,
+    "isTestMode": false,
+    "isConsentMsgShow": true,
+    "isBackInterstitialShow": false,
+    "adsTypeOpenServer": "google",
+    "adsTypeBannerServer": "google",
+    "adsTypeNativeServer": "google",
+    "adsTypeInterstitialServer": "google",
+    "openAdsTimer": 15000,
+    "interstitialClick": 3,
+    "randomAdType": "google,custom",
+    "nativeTheme": "custom",
+    "googleBannerId": "your_google_banner",
+    "googleInterstitialId": "your_google_interstitial",
+    "googleNativeId": "your_google_native",
+    "googleAppOpenId": "your_app_open_id",
+    "facebookBannerId": "your_facebook_banner_id",
+    "facebookInterstitialId": "your_facebook_inter_id",
+    "facebookNativeId": "your_facebook_native_id",
+    "maxBannerId": "your_max_banner_id",
+    "maxInterstitialId": "your_max_inter_id",
+    "maxSmallNativeId": "your_max_small_native_id",
+    "maxNativeId": "your_max_native_id",
+    "maxAppOpenId": "your_max_open_id",
+    "unityBannerId": "your_unity_banner_id",
+    "unityInterstitialId": "your_unity_inter_id",
+    "unityNativeId": "your_unity_native_id",
+    "vungleBannerId": "your_vungle_banner_id",
+    "vungleInterstitialId": "your_vungle_inter_id",
+    "vungleNativeId": "your_vungle_native_id",
+    "nativePerItem": "",
+    "publisherId": "",
+    "privacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "localPrivacyPolicy": "https://camappscctv.github.io/privacy.html",
+    "localBanner": [
+      {
+        "bannerLink": "https://play.google.com/store/apps/details?id=com.ludo.king",
+        "bannerImage": "https://codexhitenp.github.io/banner1.png"
+      },
+      {
+        "bannerLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
+        "bannerImage": "https://i.ibb.co/r27B8Vp/Navy-Blue-Black-Friday-Etsy-Banner-Made-with-Poster-My-Wall.jpg"
+      }
+    ],
+    "localNative": [
+      {
+        "nativeLink": "https://play.google.com/store/apps/details?id=com.protectstar.antispy.android",
+        "nativeImage": "https://uploads-ssl.webflow.com/63f53af6e7d3ad6807222368/644a04d84d0a0b0c0989993c_P_EFt0Y7fve8ARoGGiq2A7Nb-64Ky5Y3zgeIuAliQgiOScwSrCTXCRJVhatRylzPFjXQmhaJVoSj1rXeOGC0lZcPTD1Ok-qguKEiRisFVj_G24y-L372WWPB4ZOUye5nh97spOofwKLHcTEtlg.gif",
+        "nativeTitle": "Anti Spy Detector - Spyware",
+        "nativeSubTitle": "Android devices have become an integral part of our lives. As our use of android devices grows, so the risk of spyware & malware attacks increases.",
+        "nativeLogo": "https://play-lh.googleusercontent.com/-RgY7W2BOari84d9BhoshEFx42LKoKncmkVGhCOiyfRzDYv6ic28Qzv913BGrsTB0Bg=w240-h480-rw",
+        "nativeButtonTitle": "Install"
+      },
+      {
+        "nativeLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
+        "nativeImage": "https://uploads-ssl.webflow.com/63f53af6e7d3ad6807222368/644a04d84d0a0b0c0989993c_P_EFt0Y7fve8ARoGGiq2A7Nb-64Ky5Y3zgeIuAliQgiOScwSrCTXCRJVhatRylzPFjXQmhaJVoSj1rXeOGC0lZcPTD1Ok-qguKEiRisFVj_G24y-L372WWPB4ZOUye5nh97spOofwKLHcTEtlg.gif",
+        "nativeTitle": "Master Speed Test Fast",
+        "nativeSubTitle": "Typing Master application helps to how fast you with a typing with different typing test. Choose small & large paragraph given here, so you can day to day improve your typing speed.",
+        "nativeLogo": "https://play-lh.googleusercontent.com/SY4YQwnuxGhxUxCSlSRyflqxLdk6Npk6-N5ihululvvg8zRSRo4EaY-oPCinku4o9FM=w240-h480-rw",
+        "nativeButtonTitle": "Go to Store"
+      }
+    ],
+    "localInterstitial": [
+      {
+        "interstitialLink": "https://play.google.com/store/apps/details?id=com.protectstar.antispy.android",
+        "interstitialImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
+        "interstitialTitle": "Anti Spy Detector - Spyware",
+        "interstitialSubTitle": "Android devices have become an integral part of our lives. As our use of android devices grows, so the risk of spyware & malware attacks increases.",
+        "interstitialLogo": "https://play-lh.googleusercontent.com/-RgY7W2BOari84d9BhoshEFx42LKoKncmkVGhCOiyfRzDYv6ic28Qzv913BGrsTB0Bg=w240-h480-rw",
+        "interstitialButtonTitle": "Go to store"
+      },
+      {
+        "interstitialLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
+        "interstitialImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
+        "interstitialTitle": "Master Speed Test Fast",
+        "interstitialSubTitle": "Typing Master application helps to how fast you with a typing with different typing test. Choose small & large paragraph given here.",
+        "interstitialLogo": "https://play-lh.googleusercontent.com/SY4YQwnuxGhxUxCSlSRyflqxLdk6Npk6-N5ihululvvg8zRSRo4EaY-oPCinku4o9FM=w240-h480-rw",
+        "interstitialButtonTitle": "Install"
+      }
+    ],
+    "localOpen": [
+      {
+        "appOpenLink": "https://play.google.com/store/apps/details?id=com.protectstar.antispy.android",
+        "appOpenImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
+        "appOpenTitle": "Anti Spy Detector - Spyware",
+        "appOpenSubTitle": "Android devices have become an integral part of our lives. As our use of android devices grows, so the risk of spyware & malware attacks increases.",
+        "appOpenLogo": "https://play-lh.googleusercontent.com/-RgY7W2BOari84d9BhoshEFx42LKoKncmkVGhCOiyfRzDYv6ic28Qzv913BGrsTB0Bg=w240-h480-rw",
+        "appOpenButtonTitle": "Go to store"
+      },
+      {
+        "appOpenLink": "https://play.google.com/store/apps/details?id=fun.dev.typingtest.typingmaster.musical.team",
+        "appOpenImage": "https://www.dayshospitality.com/wp-content/uploads/2017/07/240x400-vertical-rectangle-RPCD.gif",
+        "appOpenTitle": "Master Speed Test Fast",
+        "appOpenSubTitle": "Typing Master application helps to how fast you with a typing with different typing test. Choose small & large paragraph given here.",
+        "appOpenLogo": "https://play-lh.googleusercontent.com/SY4YQwnuxGhxUxCSlSRyflqxLdk6Npk6-N5ihululvvg8zRSRo4EaY-oPCinku4o9FM=w240-h480-rw",
+        "appOpenButtonTitle": "Install"
+      }
+    ]
+  },
+  "data": {
+    "appLive": false,
+    "connectionNative": false,
+    "countryNative": false,
+    "ageSelectionNative": false,
+    "deviceCatagoryNative": false,
+    "watchCatagoryNative": false,
+    "genderBanner": false,
+    "addWatchNative": false,
+    "heartNative": false,
+    "caloriesNative": false,
+    "sleepingNative": false,
+    "watchNative": false,
+    "healthNative": false,
+    "profileNative": false,
+    "homeNative": false,
+    "enterNameNative": false
+  }
+}
